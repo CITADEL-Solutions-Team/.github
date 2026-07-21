@@ -1,2 +1,1 @@
-# .github
-Citadel Solutions LLC
+# Citadel Solutions LLC
