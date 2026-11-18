@@ -24,6 +24,8 @@ We're a team of cybersecurity students and developers, so security isn't an add-
 
 ## How we work
 
+**We practice what we sell.** Before we protect your systems, we built and secured our own.
+
 - **Security first.** Secure defaults, least-privilege access, reviewed code and secret scanning in CI.
 - **Accessible by design.** We build to WCAG 2.1 AA.
 - **Privacy-respecting.** Cookieless analytics, no ad trackers, and only the data we actually need.
