@@ -28,7 +28,7 @@ We're a team of cybersecurity students and developers, so security isn't an add-
 
 - **Security first.** Secure defaults, least-privilege access, reviewed code and secret scanning in CI.
 - **Accessible by design.** We build to WCAG 2.1 AA.
-- **Privacy-respecting.** Cookieless analytics, no ad trackers, and only the data we actually need.
+- **Privacy-respecting.** Cookieless analytics, no ad trackers, and hardware security compliance. We only take necessary data to get the job done.
 - **Built on recognized standards.** We follow CIS Controls and the NIST Cybersecurity Framework in how we run our own systems.
 
 ## Our stack
